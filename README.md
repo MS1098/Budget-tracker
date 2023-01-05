@@ -56,7 +56,7 @@ Start Server using node or nodemon
 ```
 
 
-Please Use Tailwind CSS for styling components
+
 
 ## Environment Variables
 
