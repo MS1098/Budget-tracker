@@ -1,10 +1,10 @@
 
-# Expense Tracker
+# Budget Tracker
 
 
 ## Description
 
-This is Expense Tracker Web App to manage all your Daily Expenses.
+This is Budget Tracker Web App to manage all your Daily Expenses.
 
 You can add and delete Expenses easily with different categories.
 
@@ -56,7 +56,7 @@ Start Server using node or nodemon
 ```
 
 
-Please Use Tailwind CSS for styling components
+
 
 ## Environment Variables
 
