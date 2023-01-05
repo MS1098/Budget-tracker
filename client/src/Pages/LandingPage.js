@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { Link, useNavigate } from "react-router-dom";
-
+import th from "../assets/th.jpg"
 import Vector from "../assets/Vector.svg";
 import Menu from "../assets/mobile_bar.png";
 import Close from "../assets/close.png";
@@ -181,7 +181,7 @@ export default function LandingPage(props) {
           )}
         </div>
         <div className="my-auto mt-20 w-full">
-          <img src={Vector} alt="join now" />
+          <img src={th} alt="join now" />
         </div>
       </div>
     </div>
