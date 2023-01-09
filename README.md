@@ -1,7 +1,7 @@
 
 # Budget Tracker
 
-# Deployed Link: https://busy-gold-llama-yoke.cyclic.app/
+Deployed Link: https://busy-gold-llama-yoke.cyclic.app/
 
 ## Description
 
